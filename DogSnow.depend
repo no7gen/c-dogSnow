@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1626372149 source:d:\devs\c\dogsnow\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
